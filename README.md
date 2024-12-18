@@ -5,7 +5,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a comp
 
 ### Key Tasks Performed
 1. **Data Exploration**: Loaded and examined the movie dataset to understand its structure, including columns, data types, and general statistics.
-2. **Data VisualiSation**: Created Python-based visualisations to uncover patterns, trends, and key insights within the data.
+2. **Data Visualisation**: Created Python-based visualisations to uncover patterns, trends, and key insights within the data.
 3. **Key Observations**: Extracted two major findings and explored their significance.
 4. **Movie Deep Dive**: Conducted an in-depth analysis of two specific movies to compare their attributes and understand their uniqueness.
 
